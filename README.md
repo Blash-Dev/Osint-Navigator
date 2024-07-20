@@ -33,3 +33,6 @@
 Pour toute question ou assistance, rejoignez notre serveur Discord ici :
 
 Discord : https://discord.gg/YRW2WgcrhR
+
+Creator: Blash<br>
+</p>

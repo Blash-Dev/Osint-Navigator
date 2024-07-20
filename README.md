@@ -19,8 +19,17 @@
 - [x] 3. Recherche de noms/prénoms
 - [x] 4. Reconnaissance faciale
 
+<h1>⏳・Installation:</h1>
+  
+```
+1 - Télécharger le dossier
+2 - Extraire le dossier.
+3 - Lancez "install.bat" et "start.bat"
+```
+</p>
+
 ## **:speech_balloon: Support**
 
 Pour toute question ou assistance, rejoignez notre serveur Discord ici :
 
-Discord : "https://discord.gg/YRW2WgcrhR"
+Discord : https://discord.gg/YRW2WgcrhR

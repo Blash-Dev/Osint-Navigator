@@ -14,10 +14,10 @@
 
 ## **✨ Features**
 
-- [x] 1. Recherche d'IP
-- [x] 2. Recherche d'email
-- [x] 3. Recherche de noms/prénoms
-- [x] 4. Reconnaissance faciale
+- [x] 1 - Recherche d'IP
+- [x] 2 - Recherche d'email
+- [x] 3 - Recherche de noms/prénoms
+- [x] 4 -  Reconnaissance faciale
 
 <h1>⏳・Installation:</h1>
   

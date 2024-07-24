@@ -4,7 +4,7 @@
 
 - [x] Cliquez sur ⭐ en haut à droite pour mettre en vedette ce dépôt
 
-**Osint Navigator Tool** : C'est un Tools qui réuni tout les site de osint mail ip reconnaissance faciale ect.
+**Osint Navigator Tool**: C'est un Tools qui réuni tout les site de osint mail ip reconnaissance faciale ect.
 
 ![OsintNavigatorTool](https://media.discordapp.net/attachments/1263924985626497024/1264351483709882529/image.png?ex=669d8e94&is=669c3d14&hm=e7c3ad7935db71dfffaa35290ad909d4c379fbb1930da1de2071e49db0436fe5&=&format=webp&quality=lossless)
 
@@ -59,11 +59,11 @@ Ou
 ```
 </p>
 
-## **:speech_balloon: Support**
+## **:speech_balloon:・Support**
 
-Pour toute question ou assistance, rejoignez notre serveur Discord ici :
+Pour toute question ou assistance, rejoignez notre serveur Discord ici:
 
-Discord : https://discord.gg/YRW2WgcrhR
+Discord: https://discord.gg/YRW2WgcrhR
 
-Creator : Blash<br>
+Creator: Blash<br>
 </p>

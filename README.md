@@ -19,6 +19,19 @@
 - [x] 3 - Recherche de noms/prénoms
 - [x] 4 -  Reconnaissance faciale
 
+
+<h1>📜・Description:</h1>
+<p>
+  
+👨‍💻 -> Développé en <strong>Python</strong>.<br>
+🌍 -> Tool en <strong>Français</strong>.<br>
+💻 -> Disponible sur <strong>Windows</strong> et <strong>Linux</strong>.<br>
+🔎 -> <strong>Pas de malware</strong> ou <strong>backdoor</strong>.<br>
+🔄 -> <strong>Fréquemment mis à jour.</strong>.<br>
+💰 -> <strong>Gratuit</strong> pour tous. <br>
+</p>
+
+
 <h1>🔒・Requirements:</h1>
 <h3>Windows:</h3>
 <p>

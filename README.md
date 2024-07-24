@@ -22,8 +22,7 @@
 <h1>🔒・Requirements:</h1>
 <h3>Windows:</h3>
 <p>
-- vous devez installer <a href="https://www.python.org/downloads/">Python</a> avec
-- Windows 10 & 11
+- vous devez installer <a href="https://www.python.org/downloads/">Python</a> avec Windows 10 & 11
 </p>
 <h3>Linux:</h3>
 <p>
@@ -38,7 +37,7 @@
 2 - Extraire le dossier.
 3 - Lancez "install.bat" et "start.bat"
 ```
-Or
+Ou
 ```
 1 - Ouvrir un terminal.
 2 - Copie « git clone https://github.com/Blash-Dev/Osint-Navigator-Tool.git »

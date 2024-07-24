@@ -1,4 +1,4 @@
-# 🚀 · Osint Navigator Tool
+# 🚀・Osint Navigator Tool
 
 ## **⭐ Star**
 
@@ -12,7 +12,7 @@
 
 ![OSINT](https://media.discordapp.net/attachments/1263924985626497024/1263941541114937344/1dC6yYmAkwVq2UeF8HngSVw.png?ex=669c10ca&is=669abf4a&hm=39a261c1a215a6fdbc79b8e2e37b426a9f675434713ddc5caff39b05fb781080&=&format=webp&quality=lossless&width=550&height=310)
 
-## **✨ Features**
+# ✨・Features
 
 - [x] 1 - Recherche d'IP
 - [x] 2 - Recherche d'email

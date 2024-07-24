@@ -6,7 +6,7 @@
 
 **Osint Navigator Tool**: C'est un Tools qui réuni tout les site de osint mail ip reconnaissance faciale ect.
 
-![OsintNavigatorTool](https://media.discordapp.net/attachments/1263924985626497024/1264351483709882529/image.png?ex=669d8e94&is=669c3d14&hm=e7c3ad7935db71dfffaa35290ad909d4c379fbb1930da1de2071e49db0436fe5&=&format=webp&quality=lossless)
+![OsintNavigatorTool](https://images-ext-1.discordapp.net/external/UqeeiJOjryf_lNvWoAmkSQ8s1S9LbAxjglijG5D1zpw/https/repository-images.githubusercontent.com/831147707/5bad4f80-8a08-496e-b613-fdba07832d44?format=webp&width=835&height=439)
 
 ### **🔍 OSINT (Open Source Intelligence)**
 

@@ -28,6 +28,7 @@
 💻 -> Disponible sur <strong>Windows</strong> et <strong>Linux</strong>.<br>
 🔎 -> <strong>Pas de malware</strong> ou <strong>backdoor</strong>.<br>
 🔄 -> <strong>Fréquemment mis à jour.</strong>.<br>
+📂 -> <strong>Open Source</strong> uniquement pour la vérification, en veillant à ce qu’il n’y ait pas de malveillance programs.<br>
 💰 -> <strong>Gratuit</strong> pour tous. <br>
 </p>
 

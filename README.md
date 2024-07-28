@@ -10,7 +10,7 @@
 
 ### **🔍 OSINT (Open Source Intelligence)**
 
-![OSINT](https://media.discordapp.net/attachments/1263924985626497024/1263941541114937344/1dC6yYmAkwVq2UeF8HngSVw.png?ex=669c10ca&is=669abf4a&hm=39a261c1a215a6fdbc79b8e2e37b426a9f675434713ddc5caff39b05fb781080&=&format=webp&quality=lossless&width=550&height=310)
+![OSINT](https://media.discordapp.net/attachments/1263924985626497024/1267267024900325497/image-4.png?ex=66a829e3&is=66a6d863&hm=a7353964c79724d50eaa160f4d34fa952247a2fa75a3904e2d14a8a1da5c2df6&=&format=webp&quality=lossless&width=550&height=309)
 
 # ✨・Features
 

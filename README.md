@@ -4,20 +4,16 @@
 
 - [x] Cliquez sur ⭐ en haut à droite pour mettre en vedette ce dépôt
 
-**Osint Navigator Tool**: C'est un Tools qui réuni tout les site de osint mail ip reconnaissance faciale ect.
+**Osint Navigator Tool**: C'est un Tool qui réuni tout les site de osint mail ip reconnaissance faciale ect.
 
 ![OsintNavigatorTool](https://images-ext-1.discordapp.net/external/UqeeiJOjryf_lNvWoAmkSQ8s1S9LbAxjglijG5D1zpw/https/repository-images.githubusercontent.com/831147707/5bad4f80-8a08-496e-b613-fdba07832d44?format=webp&width=835&height=439)
-
-### **🔍 OSINT (Open Source Intelligence)**
-
-![OSINT](https://media.discordapp.net/attachments/1263924985626497024/1267267024900325497/image-4.png?ex=66a829e3&is=66a6d863&hm=a7353964c79724d50eaa160f4d34fa952247a2fa75a3904e2d14a8a1da5c2df6&=&format=webp&quality=lossless&width=550&height=309)
 
 # ✨・Features
 
 - [x] 1 - Recherche d'IP
 - [x] 2 - Recherche d'email
 - [x] 3 - Recherche de noms/prénoms
-- [x] 4 -  Reconnaissance faciale
+- [x] 4 - Reconnaissance faciale
 
 
 <h1>📜・Description:</h1>
